@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_820708_test_ac_0.admin" name="x_820708_test_ac_0.admin">f6f30e7697b0311046a872d11153afd3</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 13:43:33</sys_created_on>
+        <sys_id>3af30e7697b0311046a872d11153afd5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f6f30e7697b0311046a872d11153afd3</sys_name>
+        <sys_package display_value="Test Account" source="x_820708_test_ac_0">eef30e7697b0311046a872d11153afcd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Account">eef30e7697b0311046a872d11153afcd</sys_scope>
+        <sys_update_name>sys_embedded_help_role_3af30e7697b0311046a872d11153afd5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 13:43:33</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
